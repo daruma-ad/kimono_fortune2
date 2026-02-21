@@ -147,19 +147,6 @@ export default function ResultView() {
                         <div className="result-promo-note">※ おひとり様1日1回まで</div>
                     </div>
 
-                    {/* EC Coupon */}
-                    <div className="result-promo-card result-ec-coupon">
-                        <div className="result-promo-badge result-promo-badge--ec">ECクーポン</div>
-                        <p className="result-promo-text">
-                            オンラインショップで使える
-                        </p>
-                        <div className="result-coupon-code">
-                            <span className="result-coupon-label">クーポンコード</span>
-                            <span className="result-coupon-value">WASAI10OFF</span>
-                        </div>
-                        <p className="result-coupon-discount">全品 <strong>10% OFF</strong></p>
-                        <div className="result-promo-note">※ 他クーポンとの併用不可</div>
-                    </div>
                 </section>
 
                 {/* Retry Button */}
