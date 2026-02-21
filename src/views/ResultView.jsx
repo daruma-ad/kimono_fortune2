@@ -142,7 +142,7 @@ export default function ResultView() {
                         <div className="result-promo-badge">店頭特典</div>
                         <p className="result-promo-text">
                             この画面を店頭でご提示いただくと<br />
-                            <strong>オリジナルノベルティ</strong>をプレゼント 🎁
+                            <strong>ご購入商品価格より10%オフ</strong>にさせていただきます。
                         </p>
                         <div className="result-promo-note">※ おひとり様1日1回まで</div>
                     </div>
